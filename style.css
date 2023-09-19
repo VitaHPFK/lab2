@@ -1,0 +1,32 @@
+header {
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+}
+nav {
+    
+    width: 400px; ;
+    height: 50px; ; 
+    background-color:rgb(238, 91, 91) ;
+}
+
+aside {
+    width:20% ;
+    height: 450px; 
+    background-color:rgb(3, 116, 3) ;
+    float: right;
+}
+
+main {
+    width:100% ;
+    height: 450px; ;
+    background-color:rgb(161, 255, 197) ;
+   
+}
+
+footer {
+    width:100% ;
+    height: 150px; 
+    background-color: palevioletred;
+    floa
+}
